@@ -16,7 +16,7 @@
       </p>
       </div>
       <div id="photo-container">
-        <img id="about-me-pic" v-on:click="nextPicture()" src="/img/about-me-pic1.f0825a89.jpg"/>
+        <img id="about-me-pic" v-on:click="nextPicture()" src="../assets/AboutMePics/about-me-pic1.jpg"/>
       </div>
   </section>
 </template>

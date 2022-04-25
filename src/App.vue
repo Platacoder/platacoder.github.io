@@ -4,7 +4,7 @@
      <nav-bar/>
     </header>
     <router-view/>
-    <a class="portfolio-source" href="">Designed & Built by Steven Garcia</a>
+    <a class="portfolio-source" href="https://github.com/Platacoder/portfolioV1">Designed & Built by Steven Garcia</a>
   </div>
 </template>
 
