@@ -2,6 +2,8 @@
 
 **Url:** https://platacoder.github.io/portfolio-frontend/
 
+TODO: Optimize for phone use.
+
 ## Project setup
 ```
 npm install
